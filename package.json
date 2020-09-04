@@ -11,7 +11,7 @@
     "express": "^4.16.4",
     "next": "^7.0.3",
     "next-mdx-frontmatter": "^0.0.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "remark-emoji": "^2.0.2",
